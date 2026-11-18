@@ -6,5 +6,5 @@ window.OVERLAY_CONFIG = {
   logoCorner: "tl",      // "tl" øverst venstre, "tr" øverst højre, "bl" nederst venstre, "br" nederst højre
   speed: 7,              // Sekunder pr. omgang for den animerede kant (lavere = hurtigere)
   borderWidth: 1.5,      // Kantens tykkelse i % af bredden
-  nameSize: 5.4          // Navnets størrelse (4.3 var før, højere = større)
+  nameSize: 7          // Navnets størrelse (4.3 var før, højere = større)
 };
